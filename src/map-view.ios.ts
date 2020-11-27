@@ -10,7 +10,7 @@ import {
 } from './map-view-common';
 
 export * from './map-view-common';
-export { StyleBase as Style };
+// export { StyleBase as Style };
 
 declare function UIEdgeInsetsMake(...params: any[]): any;
 

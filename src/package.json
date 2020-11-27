@@ -1,7 +1,7 @@
 {
-  "name": "nativescript-google-maps-sdk",
+  "name": "nativescript-google-maps-sdk-n7",
   "description": "Google Maps SDK plugin for Nativescript",
-  "version": "3.0.2",
+  "version": "3.0.6",
   "author": "Dan Prietti <dprietti@gmail.com> (https://github.com/dapriett)",
   "license": "MIT",
   "homepage": "https://github.com/dapriett/nativescript-google-maps-sdk#readme",
